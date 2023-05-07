@@ -2,6 +2,7 @@
 
 <!--
 **JethwaParv/JethwaParv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My LinkedIn profile: https://www.linkedin.com/in/parveen-jethwa-2807a6206?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B45cCrbGBRKKNF3q1Ogt5kw%3D%3D
 
 Here are some ideas to get you started:
 
